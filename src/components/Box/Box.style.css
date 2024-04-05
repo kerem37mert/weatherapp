@@ -1,0 +1,26 @@
+.Box {
+    width: 60%;
+    margin-top: 100px;
+    background-color: #F7EFE5;
+    padding: 30px;
+}
+
+.title {
+    text-align: center;
+    font-size: 1.8em;
+    margin-bottom:30px;
+}
+
+.main input {
+    box-sizing: border-box;
+    padding: 7.5px;
+    width: 100%;
+    font-size: 0.9em;
+    background-color: #FFFBF5;
+    border: 2px solid #C3ACD0;
+    outline: none;
+}
+
+main input:focus {
+    outline-color: red;
+}
